@@ -95,3 +95,4 @@ for t in test-cases/*.in; do
 done
 ```
 
+test!
